@@ -36,3 +36,4 @@ Week 3: Data analysis and interpretation, report writing
 ### Questions for TAs (optional)
 
 * How big must the outlier be for us to take it into account? Since we have multiple languages there's a very large number of possible outliers.
+* Are there too many / too few research questions?
