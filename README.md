@@ -11,7 +11,10 @@ Persuing the same goal as the authors but with a bigger context. We use more dat
 1. English, German, French, Italian, Spanish, Russian, Japanese, Portuguese, Arabic, Hindu Wikipedia data from January 2011-2016
 2. Google trends data from January 2011-2016
 
-We expect to get the data from the public APIs of Wikipedia and Google Trends. We'll apply a similar preprocessing phase for the data as described in the paper, excluding all the irrelevant articles and focusing on the 48 topics identified in the original paper. We expect the Wikipedia data to be similar to the data in the paper, for all languages. We'll also use the Google Trends API to get data by country on the same topics and possibly translate those topics to other languages and get data on those queries as well.  
+We expect to get the data from the public APIs of Wikipedia and Google Trends. We'll apply a similar preprocessing phase for the data as described in the paper, excluding all the irrelevant articles and focusing on the 48 topics identified in the original paper. We expect the Wikipedia data to be similar to the data in the paper, for all languages. We'll also use the Google Trends API to get data by country on the same topics and possibly translate those topics to other languages and get data on those queries as well.
+
+* [Wikipedia dumps API](https://dumps.wikimedia.org/other/analytics/)  
+* [Google Trends API Python wrapper](https://pypi.org/project/pytrends/)
 
 Data size is not supposed to be a problem since we're limiting it to those 48 topics presented in the original paper.
 
