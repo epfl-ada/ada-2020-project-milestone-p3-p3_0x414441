@@ -1,26 +1,37 @@
 ## Chilling effects online surveillance and Wikipedia use
 ### Abstract
-Persuing the same goal as the authors but with a bigger context. We use more data sources as well as more countries and longer period of time. the goal is to prove or disprove the original authors theory or atleast weaken/strenghthen their argument. We'll use Wikipedia and Google Trends data. Tell the story of the different chilling effects for people across different demographics and countries especially highlighting what those differences might be for people directly affected by the surveillance and those on the fringe of NSA's radar. 
+We would like to pursue the same goals as the authors, but within a bigger context.
+The goal would be to see whether the chilling effects observed by the authors also appear using other data sources, if they are still relevant for a longer period of time, and whether they can be observed accross different countries and languages.
+We'll use time series data from Wikipedia, as in the paper, but also data from Google Trends.
+
+We would like to tell the story of the different kinds of chilling effects for people across different demographics and countries, highlighting what those differences might be.
+For instance, we expect there to be more pronounced chilling effects on the US (and maybe other English-speaking countries), and in Arabic countries.
+However, it is not clear and would be interesting to see what chilling effects there are for those who live on the fringe of the NSA's radar. 
 
 ### Research Questions
-- Are the chilling effects long lasting or do they dissapear after an extended period of time
-- Are the observed chilling effects only present on Wikipedia or do they appear on Google Trends as well
-- What are the different patterns of chilling effects on different populations and countries
+- Are the chilling effects long-lasting, or do they disappear after an extended period of time? (to answer this, we will use extended Wikipedia data)
+- Are the observed chilling effects only present on Wikipedia or can they also be observed on Google Trends?
+- What are the different patterns of chilling effects accross different countries and languages? (to answer this, we will use data from many languages and countries)
 
 ### Proposed dataset
-1. English, German, French, Italian, Spanish, Russian, Japanese, Portuguese, Arabic, Hindu Wikipedia data from January 2011-2016
-2. Google trends data from January 2011-2016
+We would like to use the 48 topics listed on the paper to retrieve:
+1. English, German, French, Italian, Spanish, Russian, Japanese, Portuguese, Arabic and Hindu Wikipedia data from January 2011 to January 2016.
+2. Google Trends data from January 2011 to January 2016.
 
-We expect to get the data from the public APIs of Wikipedia and Google Trends. We'll apply a similar preprocessing phase for the data as described in the paper, excluding all the irrelevant articles and focusing on the 48 topics identified in the original paper. We expect the Wikipedia data to be similar to the data in the paper, for all languages. We'll also use the Google Trends API to get data by country on the same topics and possibly translate those topics to other languages and get data on those queries as well.
+We will get the data from the public APIs of Wikipedia and Google Trends.
+From Wikipedia, we will retrieve the pageviews for the 48 articles accross the previously listed languages.
+From Google Trends, we will retrieve the search time series for the 48 topics, accross different regions of the world (and translating the topics to adapt to the region).
+We'll apply a similar preprocessing phase for the data as described in the paper, and try to identify potential outliers.
+We expect the Wikipedia data to be similar to the data in the paper, for all languages.
 
 * [Wikipedia dumps API](https://dumps.wikimedia.org/other/analytics/)  
 * [Google Trends API Python wrapper](https://pypi.org/project/pytrends/)
 
-Data size is not supposed to be a problem since we're limiting it to those 48 topics presented in the original paper.
+Data size is not supposed to be a problem since we're limiting our scrapping to those 48 topics presented in the original paper, and each time series should be only around 60 months long.
 
 ### Methods
 
-Double linear regression interrupted time series to study the data trends before and after June 2013
+Interrupted time series (ITS) analysis to study the data trends before and after the June 2013 NSA revelations, and whether these trends are significant.
 
 ### Proposed timeline
 
@@ -37,3 +48,4 @@ Week 3: Data analysis and interpretation, report writing
 
 * How big must the outlier be for us to take it into account? Since we have multiple languages there's a very large number of possible outliers.
 * Are there too many / too few research questions?
+* How should we interpret the p-values of some ITS fits?
