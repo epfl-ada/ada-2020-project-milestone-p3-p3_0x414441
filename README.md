@@ -41,7 +41,7 @@ Week 2: Method design and Data processing
 Week 3: Data analysis and interpretation, report writing
 
 ### Organization within the team
-![TaskOrganization](./TaskOrganization.png)
+![TaskOrganization](./group_orga.png)
 
 ### Questions for TAs (optional)
 
