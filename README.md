@@ -1,10 +1,12 @@
 ## Chilling effects online surveillance and Wikipedia use
 ### Abstract
-We would like to pursue the same goals as the authors, but within a bigger context.
-Our goal is to see whether the chilling effect observed by the authors is limited in time and location or whether it can be generalized to a broader context. To do so, we observe Google Trends as additional data source, analyze global information for up to 10 languages and a wider time range than the original paper for both data sources, Wikipedie Time Series and Google Trends.
+In our paper extension, we pursue similar goals as the authors of the original one did, but within a bigger context.
+We want to see whether the chilling effect observed by the authors is limited in time and location or whether it also applies to a broader context. To do so, we use Google Trends as additional data source, analyze global information for up to 10 languages and a wider time range.
 
-We want to detect differences in the apperance of chilling effects all around the globus, explain then and speculate about possible reasons for them. We also want to further support the theory of chilling effects by strengthening the argumentation by the use of more data.
-For instance, we expect there to be more pronounced chilling effects on the US (and maybe other English-speaking countries), and in Arabic countries.
+We want to detect differences in the apperance of chilling effects all around the globus and explain them. We also want to further support the theory of chilling effects by strengthening the argumentation by the use of more data.
+
+We expect there to be more pronounced chilling effects in the US and in Arabic countries than in countries being less affected by the "war on terror" and therefore presumably the NSA surveillance.
+
 However, it is not clear and would be interesting to see what chilling effects there are for those who live on the fringe of the NSA's radar. 
 
 ### Research Questions
