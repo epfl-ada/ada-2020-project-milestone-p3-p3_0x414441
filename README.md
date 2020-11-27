@@ -14,7 +14,7 @@ However, it is not clear and would be interesting to see what chilling effects e
 - What are the different patterns of chilling effects accross different languages? (to answer this, we will use data from Google Trends in many languages)
 
 ### Proposed dataset
-We will use the 48 topics listed on the paper to retrieve data from the 1st of January 2011 until the 31st December 2016.
+We will use the 48 topics listed on the paper to retrieve data starting from the 1st of January 2011, ideally until 2020 or December 2019.
 
 1. Google Trends: we will translate each topic name to many languages (we are thinking of English, German, French, Italian, Spanish, Russian, Japanese, Portuguese, Arabic and Hindu) by using the correponsing Wikipedia article names in those languages, and then query the global trends for each topic.
 2. Wikipedia: we will simply access the pageviews for the 48 topics in English, over this extended time period.
