@@ -46,7 +46,10 @@ class TrendsQueryer:
         return df
 
     def load_or_query(self, trends):
-        trends_file = trends + '.csv'
+        if not trends.endswith('.csv'):
+            trends_file = trends + '.csv'
+        else:
+            trends_file = trends
         if os.path.exists(trends_file):
             file_loc = trends_file
         else:  # Usually we declare a filename, the file itself is stored in the default directory.
@@ -56,9 +59,9 @@ class TrendsQueryer:
             print("Loaded", trends_file)
         except FileNotFoundError:
             print("No file named {} found. Querying now...")
-            query_terms = os.path.join(self.QUERY_TERM_LOCATION, trends_file)
+            query_terms = os.path.join(self.QUERY_TERM_LOCATON, trends_file.replace('.csv', '.txt'))
             if not os.path.exists(query_terms):
-                print("Querying filed. Keywords to use unknown.")
+                print("Querying failed. Keywords to use unknown.")
                 return
             with open(query_terms, 'r') as qt:
                 keywords = sorted([s.strip() for s in qt.readlines()])
