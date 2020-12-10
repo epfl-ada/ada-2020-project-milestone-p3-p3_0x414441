@@ -4,8 +4,8 @@ rm(list=ls())
 setwd('/home/lua/EPFL/MA3/ADA/extension')
 term_dir <- 'data/QueryTerms'
 
-terrorism_topics <- readLines(paste(term_dir, 'terrorism_en_topics.txt', sep='/'))
-domestic_topics <- readLines(paste(term_dir, 'domestic_en_topics.txt', sep='/'))
+terrorism_topics <- readLines(paste(term_dir, 'terrorism_en.txt', sep='/'))
+domestic_topics <- readLines(paste(term_dir, 'domestic_en.txt', sep='/'))
 
 languages <- c('de', 'fr', 'it', 'es', 'ru', 'ja', 'pt', 'ar', 'hi')
 
@@ -20,7 +20,7 @@ for (t in terrorism_topics) {
   terrorism <- rbind(terrorism, res)
 }
 for (lang in languages) {
-  writeLines(terrorism$title[terrorism$lang == lang], paste(term_dir, '/terrorism_', lang, '_topics.txt', sep=''))
+  writeLines(terrorism$title[terrorism$lang == lang], paste(term_dir, '/terrorism_', lang, '.txt', sep=''))
 }
 
 
@@ -35,5 +35,5 @@ for (t in domestic_topics) {
   domestic <- rbind(domestic, res)
 }
 for (lang in languages) {
-  writeLines(domestic$title[domestic$lang == lang], paste(term_dir, '/domestic_', lang, '_topics.txt', sep=''))
+  writeLines(domestic$title[domestic$lang == lang], paste(term_dir, '/domestic_', lang, '.txt', sep=''))
 }

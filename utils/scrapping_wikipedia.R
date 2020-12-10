@@ -5,8 +5,8 @@ setwd('/home/lua/EPFL/MA3/ADA/extension')
 term_dir <- 'data/QueryTerms'
 dest_dir <- 'data/Wikipedia'
 
-terrorism_topics <- readLines(paste(term_dir, 'terrorism_en_topics.txt', sep='/'))
-domestic_topics <- readLines(paste(term_dir, 'domestic_en_topics.txt', sep='/'))
+terrorism_topics <- readLines(paste(term_dir, 'terrorism_en.txt', sep='/'))
+domestic_topics <- readLines(paste(term_dir, 'domestic_en.txt', sep='/'))
 
 terrorism <- data.frame()
 for (t in terrorism_topics) {
