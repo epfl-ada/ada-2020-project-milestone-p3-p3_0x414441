@@ -80,31 +80,32 @@ domestic_topics <- c('United_States_Department_of_Homeland_Security',
                      'United_Nations')
 
 
+languages <- c('de', 'fr', 'it', 'es', 'ru', 'ja', 'pt', 'ar', 'hi')
+
+
 terrorism <- data.frame()
 for (t in terrorism_topics) {
-  print(t)
-  individual <- wp_trend(
+  res <- wp_linked_pages(
     page=t,
-    from='2010-01-01',
-    to='2019-12-31',
-    lang='en',
-    warn=TRUE
+    lang='en'
   )
-  terrorism <- rbind(terrorism, individual)
+  res <- res[res$lang %in% languages, c('lang', 'title')]
+  terrorism <- rbind(terrorism, res)
 }
-write.csv(terrorism, 'wiki_terrorism.csv', row.names=FALSE)
+for (lang in languages) {
+  write.table(terrorism$title[terrorism$lang == lang], paste('data/', lang, '_terrorism_topics.txt', sep=''), col.names=FALSE, row.names=FALSE, quote=FALSE)
+}
 
 
 domestic <- data.frame()
 for (t in domestic_topics) {
-  print(t)
-  individual <- wp_trend(
+  res <- wp_linked_pages(
     page=t,
-    from='2010-01-01',
-    to='2019-12-31',
-    lang='en',
-    warn=TRUE
+    lang='en'
   )
-  domestic <- rbind(domestic, individual)
+  res <- res[res$lang %in% languages, c('lang', 'title')]
+  domestic <- rbind(domestic, res)
 }
-write.csv(domestic, 'wiki_domestic.csv', row.names=FALSE)
+for (lang in languages) {
+  write.table(domestic$title[domestic$lang == lang], paste('data/', lang, '_domestic_topics.txt', sep=''), col.names=FALSE, row.names=FALSE, quote=FALSE)
+}
