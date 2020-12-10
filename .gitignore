@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
 gtab/
+*__pycache__
 .idea/
 .Rhistory
