@@ -1,0 +1,301 @@
+
+2020-12-13 23:47:07.879785
+Start AnchorBank init for region DE in timeframe 2011-01-01 2015-12-31...
+Sampling keywords...
+
+Bad keyword '/m/0fjfh', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/013v0m', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02nm6c', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/084cz', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0k0mp', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01bp2v', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06n9fv', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04qgp', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04fzqn3', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0dfxdrn', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05hxz3p', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09nn_9', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n1l9l', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02q64zt', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04rc3w', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05lv45q', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09j5n2', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0gl3_vx', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06b_y2', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04y5kpr', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n4pk1', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02pxh01', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04bdjb', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03ct2_8', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/083tpm', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n9bv7', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n7n62', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n6lws', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/07b2rg', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0bq4bp', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0dfxdcv', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04f182w', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n2v4t', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05v67qk', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n8041', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0c0ff8', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0c_lmc1', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n35c8', because The request failed: Google returned a response with code 400.
+Querying google...
+Removing bad queries...
+Diagnostics done!
+A total of 74 bad keywords removed.
+Saving google results as '/home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/data/internal/google_results/google_results_geo=DE_timeframe=2011-01-01 2015-12-31.pkl'...
+Total queries (groups of 5 keywords): 425
+Finding paths...
+Paths done!
+Err: 3.774758283725532e-15
+Querying pairs...
+Total range: 1.3427819823559681e-05
+Saving anchorbank as '/home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv'...
+AnchorBank init done.
+
+2020-12-14 00:39:04.738800
+Start AnchorBank init for region DE in timeframe 2011-01-01 2015-12-31...
+
+2020-12-14 00:42:41.013215
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Abu Sajaf'
+New query calibrated!
+
+2020-12-14 00:42:45.503009
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Afghanistan'
+New query calibrated!
+
+2020-12-14 00:42:51.746362
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Agro'
+New query calibrated!
+
+2020-12-14 00:42:58.826061
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Al-Qaida'
+New query calibrated!
+
+2020-12-14 00:43:05.656722
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Al-Qaida auf der Arabischen Halbinsel'
+Keyword Al-Qaida auf der Arabischen Halbinsel is bad!
+
+2020-12-14 00:43:08.018038
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Al-Qaida im Maghreb'
+Keyword Al-Qaida im Maghreb is bad!
+
+2020-12-14 00:43:09.486026
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Al-Shabab'
+New query calibrated!
+
+2020-12-14 00:43:12.779065
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Ammoniumnitrat'
+New query calibrated!
+
+2020-12-14 00:43:19.702616
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Attack'
+New query calibrated!
+
+2020-12-14 00:43:24.920676
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Autobombe'
+New query calibrated!
+
+2020-12-14 00:43:27.951291
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Chemische Waffe'
+New query calibrated!
+
+2020-12-14 00:43:30.923816
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Dschihad'
+New query calibrated!
+
+2020-12-14 00:43:36.649296
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Euskadi Ta Askatasuna'
+New query calibrated!
+
+2020-12-14 00:43:40.998583
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Extremismus'
+New query calibrated!
+
+2020-12-14 00:43:43.800654
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'FARC-EP'
+New query calibrated!
+
+2020-12-14 00:43:48.024862
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Fundamentalismus'
+New query calibrated!
+
+2020-12-14 00:43:50.994796
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Geschichte der Irisch-Republikanischen Armee'
+Keyword Geschichte der Irisch-Republikanischen Armee is bad!
+
+2020-12-14 00:43:52.827228
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Hamas'
+New query calibrated!
+
+2020-12-14 00:43:58.949927
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Hisbollah'
+New query calibrated!
+
+2020-12-14 00:44:05.496762
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Hochangereichertes Uran'
+Keyword Hochangereichertes Uran is bad!
+
+2020-12-14 00:44:07.522251
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Irak'
+New query calibrated!
+
+2020-12-14 00:44:11.898482
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Iran'
+New query calibrated!
+
+2020-12-14 00:44:16.700765
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Islamismus'
+New query calibrated!
+
+2020-12-14 00:44:23.642653
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Jemen'
+New query calibrated!
+
+2020-12-14 00:44:29.548568
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Liberation Tigers of Tamil Eelam'
+Keyword Liberation Tigers of Tamil Eelam is bad!
+
+2020-12-14 00:44:31.406383
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Nationalismus'
+New query calibrated!
+
+2020-12-14 00:44:38.150669
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Nigeria'
+New query calibrated!
+
+2020-12-14 00:44:43.098280
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Pakistan'
+New query calibrated!
+
+2020-12-14 00:44:49.904681
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Palästinensische Befreiungsfront'
+Keyword Palästinensische Befreiungsfront is bad!
+
+2020-12-14 00:44:51.676482
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Palästinensische Befreiungsorganisation'
+New query calibrated!
+
+2020-12-14 00:44:56.338722
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Personalbeschaffung'
+New query calibrated!
+
+2020-12-14 00:44:59.694672
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Piraterie'
+New query calibrated!
+
+2020-12-14 00:45:05.904834
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Selbstmordattentat'
+New query calibrated!
+
+2020-12-14 00:45:08.740008
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Selbstmordattentat'
+New query calibrated!
+
+2020-12-14 00:45:11.313627
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Somalia'
+New query calibrated!
+
+2020-12-14 00:45:16.365491
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Taliban'
+New query calibrated!
+
+2020-12-14 00:45:22.076897
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Tehrik-i-Taliban Pakistan'
+New query calibrated!
+
+2020-12-14 00:45:26.846238
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Terror (Begriffsklärung)'
+Keyword Terror (Begriffsklärung) is bad!
+
+2020-12-14 00:45:28.709453
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Terrorismus'
+New query calibrated!
+
+2020-12-14 00:45:34.208883
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Unkonventionelle Spreng- und Brandvorrichtung'
+Keyword Unkonventionelle Spreng- und Brandvorrichtung is bad!
+
+2020-12-14 00:45:36.026424
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Ökoterrorismus'
+New query calibrated!

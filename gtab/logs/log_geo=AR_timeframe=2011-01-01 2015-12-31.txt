@@ -1,0 +1,14 @@
+
+2020-12-14 01:00:47.036280
+Start AnchorBank init for region AR in timeframe 2011-01-01 2015-12-31...
+Sampling keywords...
+
+Bad keyword '/m/0fjfh', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/013v0m', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02nm6c', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/084cz', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0b3lj', because HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/explore?hl=en-US&tz=360&req=%7B%22comparisonItem%22%3A+%5B%7B%22keyword%22%3A+%22%2Fm%2F0b3lj%22%2C+%22time%22%3A+%222011-01-01+2015-12-31%22%2C+%22geo%22%3A+%22AR%22%7D%5D%2C+%22category%22%3A+0%2C+%22property%22%3A+%22%22%7D (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1a3f192610>: Failed to establish a new connection: [Errno 113] No route to host'))

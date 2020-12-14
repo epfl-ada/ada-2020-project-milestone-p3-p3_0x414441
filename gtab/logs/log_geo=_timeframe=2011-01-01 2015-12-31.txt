@@ -1057,3 +1057,243 @@ New query calibrated!
 Using ./gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
 New query 'united states department of homeland security'
 New query calibrated!
+
+2020-12-14 00:56:48.362356
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Abu Sayyaf'
+New query calibrated!
+
+2020-12-14 00:56:52.335117
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Al-Qaeda'
+New query calibrated!
+
+2020-12-14 00:56:55.904568
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Al-Qaeda in the Arabian Peninsula'
+New query calibrated!
+
+2020-12-14 00:57:03.964512
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Al-Qaeda in the Islamic Maghreb'
+New query calibrated!
+
+2020-12-14 00:57:10.587440
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Al-Shabaab'
+New query calibrated!
+
+2020-12-14 00:57:13.949989
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Ammonium nitrate'
+New query calibrated!
+
+2020-12-14 00:57:16.846862
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Biological weapon'
+New query calibrated!
+
+2020-12-14 00:57:22.481584
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Car bomb'
+New query calibrated!
+
+2020-12-14 00:57:25.304910
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Chemical weapon'
+New query calibrated!
+
+2020-12-14 00:57:28.303107
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Conventional weapon'
+New query calibrated!
+
+2020-12-14 00:57:32.544775
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Dirty bomb'
+New query calibrated!
+
+2020-12-14 00:57:35.341394
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Eco-terrorism'
+New query calibrated!
+
+2020-12-14 00:57:40.044068
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Environmental terrorism'
+New query calibrated!
+
+2020-12-14 00:57:45.661818
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Euskadi ta Askatasuna'
+New query calibrated!
+
+2020-12-14 00:57:49.674981
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'FARC'
+New query calibrated!
+
+2020-12-14 00:57:52.100844
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Improvised explosive device'
+New query calibrated!
+
+2020-12-14 00:57:57.300803
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Irish Republican Army'
+New query calibrated!
+
+2020-12-14 00:58:01.217448
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Nuclear enrichment'
+New query calibrated!
+
+2020-12-14 00:58:06.435890
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Palestine Liberation Front'
+New query calibrated!
+
+2020-12-14 00:58:11.888627
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Palestine Liberation Organization'
+New query calibrated!
+
+2020-12-14 00:58:17.674381
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Political radicalism'
+New query calibrated!
+
+2020-12-14 00:58:22.293019
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Suicide attack'
+New query calibrated!
+
+2020-12-14 00:58:26.609248
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Suicide bomber'
+New query calibrated!
+
+2020-12-14 00:58:29.324277
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Tamil Tigers'
+New query calibrated!
+
+2020-12-14 00:58:33.359502
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Tehrik-i-Taliban Pakistan'
+New query calibrated!
+
+2020-12-14 00:58:39.050099
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Weapons-grade'
+New query calibrated!
+
+2020-12-14 00:58:45.385780
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'afghanistan'
+New query calibrated!
+
+2020-12-14 00:58:51.493200
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'agro'
+New query calibrated!
+
+2020-12-14 00:58:58.111022
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'attack'
+New query calibrated!
+
+2020-12-14 00:59:01.984301
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'extremism'
+New query calibrated!
+
+2020-12-14 00:59:05.742992
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'fundamentalism'
+New query calibrated!
+
+2020-12-14 00:59:10.059758
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'hamas'
+New query calibrated!
+
+2020-12-14 00:59:15.472773
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'hezbollah'
+New query calibrated!
+
+2020-12-14 00:59:18.015877
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'iran'
+New query calibrated!
+
+2020-12-14 00:59:22.401347
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'iraq'
+New query calibrated!
+
+2020-12-14 00:59:31.963666
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'islamist'
+New query calibrated!
+
+2020-12-14 00:59:36.156214
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'jihad'
+New query calibrated!
+
+2020-12-14 00:59:42.383597
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'nationalism'
+New query calibrated!
+
+2020-12-14 00:59:45.369675
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'nigeria'
+New query calibrated!
+
+2020-12-14 00:59:50.504193
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'nuclear'
+New query calibrated!
+
+2020-12-14 00:59:55.032697
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'pakistan'
+New query calibrated!
+
+2020-12-14 00:59:59.931155
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'pirates'
+New query calibrated!
+
+2020-12-14 01:00:09.265735
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'recruitment'
+New query calibrated!
+
+2020-12-14 01:00:15.195151
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'somalia'
+New query calibrated!
+
+2020-12-14 01:00:22.613642
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'taliban'
+New query calibrated!
+
+2020-12-14 01:00:28.833049
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'terror'
+New query calibrated!
+
+2020-12-14 01:00:34.464589
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'terrorism'
+New query calibrated!
+
+2020-12-14 01:00:40.064748
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=_timeframe=2011-01-01 2015-12-31.tsv
+New query 'yemen'
+New query calibrated!
