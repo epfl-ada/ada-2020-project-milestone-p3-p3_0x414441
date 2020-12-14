@@ -1,0 +1,1144 @@
+
+2020-12-14 11:26:43.495775
+Start AnchorBank init for region EN in timeframe 2011-01-01 2015-12-31...
+Sampling keywords...
+
+Bad keyword '/m/045c7b', because The request failed: Google returned a response with code 400.
+
+Bad keyword 'Google', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02y1vz', because The request failed: Google returned a response with code 400.
+
+Bad keyword 'Facebook', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09jcvs', because The request failed: Google returned a response with code 400.
+
+Bad keyword 'Youtube', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0glpjll', because The request failed: Google returned a response with code 400.
+
+Bad keyword 'Instagram', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0mgkg', because The request failed: Google returned a response with code 400.
+
+Bad keyword 'Amazon', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/017rf_', because The request failed: Google returned a response with code 400.
+
+Bad keyword 'Netflix', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/019rl6', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0289n8t', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0d07ph', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0b2334', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03vgrr', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/010qmszp', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05g0_z', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09cpv', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09cgp', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01yt8c', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/020vl', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01l566', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/025r2', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/07clx', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0fp5h', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01_r_', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05s38', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06qrr', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01645p', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/029gy3', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/020dp', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/023ls', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/017dqv', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/07bgp', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0d_94', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09lnn', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/015_77', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0ctfk', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0cl2v', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/081qc', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0dm32', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0dwgb', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0m09', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0f4s2w', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0cyhj_', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0frq6', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0388q', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01k_hc', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03p1r4', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/07clf', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/054hcy', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01z1m1x', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0fjfh', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0hyn4', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0gk0z', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0fp6w', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/013v0m', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0cjq5', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01g7qz', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01j7_f', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0fkw3', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01z2x2', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02kr76', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0m775', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/080vl', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/012mj', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/013__5', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/020j3z', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0mjyx', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03q8g', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02dlfy', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02nm6c', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03d0ts', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03f3hr', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/084cz', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02z0ps', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02y17j', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0fl3p', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/016yfz', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01khc9', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01k17j', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/045r6_', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01px4b', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0b3lj', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/07lrp', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01h5wg', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/081blf', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01bg6m', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0k5sl', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/026ym7', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0c8jf', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05pws', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0d5nn', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/026pc21', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0g07j', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05zb4', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0jly1', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05hc9_', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/024247', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05w9z', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/016dld', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02859d', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0d2nk4', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/018kww', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03wkn5', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01xbt3', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01pkxv', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/017dpx', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01bfr_', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04sg5', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/044dt_', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05zps7', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/035bfz', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02xj0b', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/022rt1', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01j75r', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05b72n', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04tdfk', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0gvmv', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01qbpv', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0b8r64', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/049qbg', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/015w3y', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01_xp9', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01j3hf', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01_g9d', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/019rwt', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02m6ts', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/020b3f', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0fg_4r', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/050_xm', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0m0gc', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0130ck', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0ct59', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02v8tn', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/051sqc', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/039blp', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/099pqr', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02_ybg', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03ht_b', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01fd31', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01f79n', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/013wxq', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/032lrz', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03fl3v', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04tcyk', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02vwb2', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0k0mp', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02tlp3', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01bp2v', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02wz0x0', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02qm2x', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01fg3n', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03p4r6', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/08bgdn', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/034gx6', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/033xwr', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02054x', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/097ybm', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0ckq2', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01245r', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04_y8b', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0hcrq', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03_z1w', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03lp1_', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0cfk35', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01qt9r', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02fjhf', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/057mkg', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/075qs7', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06h3pn', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05dchz', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02cv5l', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06qyn0', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0308gy', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02flbl', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/022fjj', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0597nk', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0859j', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0854wm', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02nmnh', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/018gx_', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02hlnc', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0bbv6fb', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02pxbny', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04ds08', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/08myc3', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04c9vm', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/012xzr', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04knj_', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01qq3s', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04czc4w', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04hmk8', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0659_7', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/020g7f', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02f63f', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03pvjd', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0610rv', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/08vzfb', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/024jj', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/08b4k2', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01l5h4', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03qt4l', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01c09k', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0f99t', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02xzk5', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01myc4', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02qfz3v', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/027rk7_', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0d77sr', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/030zsj', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01wvgd', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0946kz', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0cjtln', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02q8twm', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0dz0lt', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/027rx_', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/08b4vj', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/078xb_', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0269z0d', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02hgbm', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03ydd_t', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/07s41z', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0bqvs', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0gtdm', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01c5nc', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0416b0', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/093b8w', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05mscjt', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06jsyl', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n91pt', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06bqsw', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06v628', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/07ns47', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/026my0h', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0gth6', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0btmnp', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09448n', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02p52fy', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05b0gp', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04gs17', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04dct7', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09vbsy', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05rbmc', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09v7rsq', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0410vr2', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/08186b', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/071xbs', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/047t99', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06n9fv', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/067wdb', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/091lvp', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02h90v', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0gcrw', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04qgp', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03vfk9', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/025s1d', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01gd_v', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02m16_', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03d4p1', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09693d', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03hwq_', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01rk9j', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04wg4d', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/069273', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03m2zk', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02pp8n1', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03myzy', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01jjr1', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/031073', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02clnh', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/082sxm', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04pv7w', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0c4936', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02x33x8', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09_mxk', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n1jsc', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0470gy', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03b_vg', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0422m1', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/043jgq', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/018sbr', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/079yjd', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0gmg0c', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02q8x0s', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03nllb4', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0gw9c2', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/014jmt', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01qzzt', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01fpgg', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0dv27g', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02tcfg', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02qg7dt', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/036q70', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04vk5_', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09fvf7', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/025strv', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/08k4nr', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0gx455', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09jpb7', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02vkxl4', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0h3rf2j', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09m43s', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04fzqn3', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0bm43t', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05gzbw', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/07v9kf', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/026spzd', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0d2xmz', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09xf66', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06w6jx', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/08d_8c', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02z6r57', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04y495', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06mqq7', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/07phf8', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/044z23', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06vg_j', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0dxqz7', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/018_z5', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04_bbx', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02rj599', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0dfxdrn', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02cxsh', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0465khx', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0c8995', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/026xlyl', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03m3q7q', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0b97cn', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0cp2dk', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/043b0s', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05h08', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09tj9h', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02vhd1', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04dmqd', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/07fs28', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0clcc9', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/025s71b', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05f_dx', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/08bk3g', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06ykxz', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05hbp4', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05hxz3p', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02x0nwz', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09nn_9', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05hd1m', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03h2_5j', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/058bdz', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/027c5z0', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02jy0y', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02l11j', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/080jwwr', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09bplz', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0dj2h6', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/045qt3', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0169z3', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0h1jd8', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0f9p0f', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09q0x0', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03rh67', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02p1p9m', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05m57t', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n1l9l', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04zztk4', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0d5sy6', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02fvq7', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/07n9pt', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/016rvq', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02p7217', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02sp_1', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0btbr0', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06wmnv', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/08qy9j', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09yw48', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/025syg0', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04gqwfn', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/07yv70', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/026c707', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02qcyn', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05hxz3d', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/099cwp', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0dk0r5', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02q_f2f', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06r6q5', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/076lpm', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0clct8', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02qtqcn', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0gzn_w', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06yvp3', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0c1k47', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/07sbs1', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05_454', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0flsmt', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/052rb9', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02q64zt', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0gccjl', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0bydkk', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06w7f26', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03lkyr', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06vk46', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03vj6r', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/074hmn', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/08y66y', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04rc3w', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0d4sy2', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/07610g', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03d7qqr', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/027lnr6', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/07cmh2', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05lv45q', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09clx2', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0f3ftg', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04jdnw1', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/07md0f', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0cnp1y', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04115dg', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0gc319', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0d_msv', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0gkx9gl', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05zk_h_', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03nqmdz', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0d_x0p', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04y_mn', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06nk8b', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09j5n2', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0bpb7w', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0160dh', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/076j5f', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05kqgz', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03xrzb', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/025xy7w', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05236r', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0l8llrw', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03ykhq5', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0dh__6', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/062dl2', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/026jjms', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0f_8ck', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03h3ccm', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0gmk33', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04zt7s', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0263_br', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/08cbln', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02vm87p', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0gl3_vx', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02myp8', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05_zwz', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03ccp03', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0fzdbq', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02z81_4', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02z80b4', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0gjdr0k', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04jmyrb', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06b_y2', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0d9gh2', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0dz0r1', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0435p8', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0fpy9fp', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04k661', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/069dmg', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03d7751', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04jb5kd', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0cx90x', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0dk0qv', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0776zf', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0466rf8', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06qt8f', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04nqvt', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04ls5j', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04lcll8', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04y5kpr', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02qgzv2', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02g40d', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0cj730', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03d2719', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03stqz', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/027cbk8', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03c073t', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/043qy_b', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02q24yx', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05kvpd', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/027w7rt', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0bhb04', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/070vpw', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02r5fyn', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/049h2f', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/057syhl', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n4pk1', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05f37s5', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05r8py', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02vmfmc', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02ptzk_', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02vmfw8', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09q_n6', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05mz7rf', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/084_y8', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05p0hkc', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02691gy', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01g8bx', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0fc_rc', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02pxh01', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04bdjb', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02qg4dj', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02rsny6', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0g2f_s', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03ct2_8', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/083tpm', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0gwfl6', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0bhfcw', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04dyzmx', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06_vxkw', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02pg_sb', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/080hr7n', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02x7yqw', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05v687l', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n9bv7', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03dvq6', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02ptq1m', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0cmdx7', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0f04q0', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04jl4z5', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04qsz7', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/027q9n7', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02rt1pd', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n7n62', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04n1t0n', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0bw3kk', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0dr_02', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n6lws', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/01pkx1', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05t0zvl', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0dlsw6', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/026tr8y', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03qjp5c', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/07b2rg', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/017z5n', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03wds_n', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03wh53d', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0bq4bp', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/08dl28', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/06n85x', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0b90nr', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0277x9y', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02qy33n', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0fcbk7', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0dfxdcv', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05sqq8b', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04f182w', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n2v4t', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02x0sxk', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05v67qk', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09gb8by', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/08tnvc', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0446b_g', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n8041', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/08pzwp', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09fb8t', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04fklc', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0c0ff8', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03cvbgp', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0408vj', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0c_lmc1', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n35c8', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n0496', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/064pcyy', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/09v3zmt', because The request failed: Google returned a response with code 400.
+Querying google...
+Removing bad queries...
+Diagnostics done!
+A total of 0 bad keywords removed.

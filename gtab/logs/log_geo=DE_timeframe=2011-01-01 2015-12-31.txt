@@ -299,3 +299,93 @@ Keyword Unkonventionelle Spreng- und Brandvorrichtung is bad!
 Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
 New query 'Ökoterrorismus'
 New query calibrated!
+
+2020-12-14 11:25:35.293322
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Air Marshal'
+New query calibrated!
+
+2020-12-14 11:25:38.940603
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Bureau of Land Management'
+Keyword Bureau of Land Management is bad!
+
+2020-12-14 11:25:40.674939
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Central Intelligence Agency'
+New query calibrated!
+
+2020-12-14 11:25:43.769208
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Drug Enforcement Administration'
+Keyword Drug Enforcement Administration is bad!
+
+2020-12-14 11:25:45.596625
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Federal Aviation Administration'
+New query calibrated!
+
+2020-12-14 11:25:50.512531
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Federal Bureau of Investigation'
+New query calibrated!
+
+2020-12-14 11:25:53.985774
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Federal Emergency Management Agency'
+New query calibrated!
+
+2020-12-14 11:25:58.085628
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Fusion Center'
+New query calibrated!
+
+2020-12-14 11:26:01.200485
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Katastrophenschutz'
+New query calibrated!
+
+2020-12-14 11:26:06.632451
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Küstenwache'
+New query calibrated!
+
+2020-12-14 11:26:14.056640
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Ministerium für Innere Sicherheit der Vereinigten Staaten'
+Keyword Ministerium für Innere Sicherheit der Vereinigten Staaten is bad!
+
+2020-12-14 11:26:15.897781
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Nationalgarde'
+New query calibrated!
+
+2020-12-14 11:26:18.753472
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Secret Service'
+New query calibrated!
+
+2020-12-14 11:26:23.988212
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Spionage'
+New query calibrated!
+
+2020-12-14 11:26:29.212038
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Transportation Security Administration'
+New query calibrated!
+
+2020-12-14 11:26:33.424554
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'United States Citizenship and Immigration Services'
+Keyword United States Citizenship and Immigration Services is bad!
+
+2020-12-14 11:26:35.165948
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'United States Immigration and Customs Enforcement'
+Keyword United States Immigration and Customs Enforcement is bad!
+
+2020-12-14 11:26:37.174892
+Using /home/jonathan/Projects/AppliedDataAnalysis/ada-2020-project-milestone-p3-p3_0x414441/gtab/output/google_anchorbanks/google_anchorbank_geo=DE_timeframe=2011-01-01 2015-12-31.tsv
+New query 'Vereinte Nationen'
+New query calibrated!
