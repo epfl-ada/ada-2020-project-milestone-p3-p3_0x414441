@@ -13,6 +13,7 @@ class TrendsQueryer:
 
     def __init__(self, timeframe, geo_code=''):
         self.timeframe = timeframe
+        geo_code = geo_code.upper()
         self.anchorbank = 'google_anchorbank_geo=' + geo_code + '_timeframe=' + timeframe + '.tsv'
         self.t = gtab.GTAB(self.GTAB_DIR)
         self.t.set_options(pytrends_config={'geo': geo_code,
@@ -58,13 +59,13 @@ class TrendsQueryer:
             query = pd.read_csv(file_loc)
             print("Loaded", trends_file)
         except FileNotFoundError:
-            print("No file named {} found. Querying now...")
-            query_terms = os.path.join(self.QUERY_TERM_LOCATON, trends_file.replace('.csv', '.txt'))
+            print("No file named {} found. Querying now...".format(trends_file))
+            query_terms = os.path.join(self.QUERY_TERM_LOCATION, trends_file.replace('.csv', '.txt'))
             if not os.path.exists(query_terms):
                 print("Querying failed. Keywords to use unknown.")
                 return
             with open(query_terms, 'r') as qt:
-                keywords = sorted([s.strip() for s in qt.readlines()])
+                keywords = sorted([s.strip().replace('_', ' ') for s in qt.readlines()])
             query = self.query_keywords(keywords, fname=trends_file)
 
         return query
