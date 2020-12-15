@@ -7,7 +7,7 @@ term_dir <- 'data/QueryTerms'
 terrorism_topics <- readLines(paste(term_dir, 'terrorism_en.txt', sep='/'))
 domestic_topics <- readLines(paste(term_dir, 'domestic_en.txt', sep='/'))
 
-languages <- c('de', 'fr', 'it', 'es', 'ru', 'ja', 'pt', 'ar', 'hi')
+languages <- c('de', 'fr', 'it', 'es', 'ru', 'pt')
 
 terrorism <- data.frame()
 for (t in terrorism_topics) {

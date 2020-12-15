@@ -1,7 +1,9 @@
 Département_de_la_Sécurité_intérieure_des_États-Unis
 Federal_Emergency_Management_Agency
 Garde-côtes
-Secret_Service
+Service_des_douanes_et_de_la_protection_des_frontières_des_États-Unis
+United_States_Border_Patrol
+United_States_Secret_Service
 Bureau_of_Land_Management
 Renseignement
 Central_Intelligence_Agency
@@ -12,6 +14,7 @@ Federal_Air_Marshal_Service
 Transportation_Security_Administration
 Air_marshal
 Federal_Aviation_Administration
+United_States_National_Guard
 Plan_d'urgence
 United_States_Immigration_and_Customs_Enforcement
 Organisation_des_Nations_unies
