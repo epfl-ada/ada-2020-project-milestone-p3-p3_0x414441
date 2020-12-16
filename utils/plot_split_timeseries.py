@@ -73,7 +73,7 @@ def split_timeseries_figures(in_frames, names, split_at=PRISM_DATE, same_plot=Tr
         # First some axes unpacking. Numpy has an ugly feature of changing the depth of the list storing the axes, so lets unpack them
         if not same_plot:
             if ROWS == 1:
-                ROW = 1
+                ROW = 0
                 COL = i
                 ax = axs[COL]
             else:
@@ -96,11 +96,11 @@ def split_timeseries_figures(in_frames, names, split_at=PRISM_DATE, same_plot=Tr
         ax.set_xlim(dataframe['date_ordinal'].min() - 15, dataframe['date_ordinal'].max() + 15)  # 15 days offset
         ax.vlines(mdates.date2num(split_at), 0, 1, color=colors['Prism Disclosure, 6/6/2013'],
                   transform=ax.get_xaxis_transform(), label=split_at)
-        if not same_plot and COL == 0:
+        if (not same_plot) and (COL == 0) and (not sharey):
             ax.set_ylim(dataframe[keyword].min() * 0.9,
                         dataframe[keyword].max() * 1.1)  # Assumes there are no negative values
             ax.set_ylabel(keyword)
-        if not same_plot and ROW + 1 == ROWS:
+        if (not same_plot) and (ROW + 1 == ROWS):
             # As mentioned above, the date was transformed to integers for the sake of plotting it using seaborn.
             # Now, they have to be transformed back to have nice x-Axis labels that are human-readable
             loc = mdates.MonthLocator(interval=show_every_nth_month)

@@ -8,8 +8,8 @@ class TrendsQueryer:
 
     PARENT_DIRECTORY = os.path.dirname(os.path.dirname(__file__))
     GTAB_DIR = os.path.join(PARENT_DIRECTORY, 'gtab/')
-    GOOGLE_DATA_LOCATION = os.path.join(PARENT_DIRECTORY, 'data/GoogleTrends/')
-    QUERY_TERM_LOCATION = os.path.join(PARENT_DIRECTORY, 'data/QueryTerms')
+    GOOGLE_DATA_LOCATION = os.path.join(PARENT_DIRECTORY, 'data/google-trends/')
+    QUERY_TERM_LOCATION = os.path.join(PARENT_DIRECTORY, 'data/query-terms')
 
     def __init__(self, timeframe, geo_code=''):
         self.timeframe = timeframe
@@ -59,7 +59,7 @@ class TrendsQueryer:
             query = pd.read_csv(file_loc)
             print("Loaded", trends_file)
         except FileNotFoundError:
-            print("No file named {} found. Querying now...".format(trends_file))
+            print("No file {} found. Querying now...".format(file_loc))
             query_terms = os.path.join(self.QUERY_TERM_LOCATION, trends_file.replace('.csv', '.txt'))
             if not os.path.exists(query_terms):
                 print("Querying failed. Keywords to use unknown.")
