@@ -2,10 +2,10 @@ library('wikipediatrend')
 
 rm(list=ls())
 setwd('/home/lua/EPFL/MA3/ADA/extension')
-term_dir <- 'data/QueryTerms'
-dest_dir <- 'data/Wikipedia'
+term_dir <- 'data/query-terms'
+dest_dir <- 'data/wikipedia'
 
-languages <- c('en', 'de', 'fr', 'it', 'es', 'ru', 'pt')
+languages <- c('en', 'de', 'fr', 'it', 'es', 'pt')
 
 terrorism <- data.frame()
 for (lang in languages) {

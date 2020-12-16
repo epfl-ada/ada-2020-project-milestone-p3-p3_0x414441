@@ -2,12 +2,12 @@ library('wikipediatrend')
 
 rm(list=ls())
 setwd('/home/lua/EPFL/MA3/ADA/extension')
-term_dir <- 'data/QueryTerms'
+term_dir <- 'data/query-terms'
 
 terrorism_topics <- readLines(paste(term_dir, 'terrorism_en.txt', sep='/'))
 domestic_topics <- readLines(paste(term_dir, 'domestic_en.txt', sep='/'))
 
-languages <- c('de', 'fr', 'it', 'es', 'ru', 'pt')
+languages <- c('de', 'fr', 'it', 'es', 'pt')
 
 terrorism <- data.frame()
 for (t in terrorism_topics) {
