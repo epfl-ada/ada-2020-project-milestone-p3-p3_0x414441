@@ -175,11 +175,10 @@ def analyse_and_plot(dataset='wikipedia', lang=None, ignore_months=range(54, 61)
     lang = f'[{lang}] ' if lang is not None else ''
     title = lang + 'Terrorism study group vs Domestic security comparator group, {}'.format(dataset)
     fig.update_layout(title=title,
-                      legend=dict(yanchor="top", y=-0.425, xanchor="left", x=0, orientation='h', bgcolor='rgba(180,180,180,0.9)',bordercolor="Black", borderwidth=2))
+                      legend=dict(yanchor="top", y=-0.2, xanchor="left", x=0, orientation='h', bgcolor='rgba(180,180,180,0.9)',bordercolor="Black", borderwidth=2))
     fig.update_xaxes(range=[0, its.month.max() + 1], nticks=40, ticks="inside", showgrid=False, showline=True, linewidth=2, linecolor='black', mirror=True)
     fig.update_layout(paper_bgcolor='rgba(0,0,0,0)',
-                      plot_bgcolor='rgba(0,0,0,0)',
-                      height=600)
+                      plot_bgcolor='rgba(0,0,0,0)')
     if seperate_y:
         fig.update_yaxes(nticks=10, ticks="inside", showline=True, linewidth=2, linecolor='rgba(64,144,248,1)', secondary_y=False)
         fig.update_yaxes(nticks=10, ticks="inside", showline=True, linewidth=2, linecolor='rgba(255,130,0,1)', secondary_y=True)
@@ -218,7 +217,7 @@ def four_panel_pageviews_plot(data, ignore=None):
         fig.add_trace(scatter, row=row, col=col)
     
     fig.update_layout(margin={'l': 20, 'r': 20, 'b': 10, 't': 10})
-    fig.show()
+    fig.show('png', width=1000, height=700)
     
     
 def four_panel_google_plot(data, ignore=None):
@@ -242,6 +241,6 @@ def four_panel_google_plot(data, ignore=None):
         scatter = go.Scatter(x=list(range(len(art_data))), y=art_data.max_ratio, name=art)
         fig.add_trace(scatter, row=row, col=col)
     
-    fig.update_layout(margin={'l': 20, 'r': 20, 'b': 10, 't': 10})
-    fig.show()
+    fig.update_layout(margin={'l': 20, 'r': 20, 'b': 10, 't': 10}, width=2000, height=1200)
+    fig.show('png', width=1000, height=700)
 
