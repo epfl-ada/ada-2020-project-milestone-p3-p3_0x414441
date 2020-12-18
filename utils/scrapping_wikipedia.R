@@ -25,7 +25,7 @@ for (lang in languages) {
     }
   }
 }
-write.csv(terrorism, paste(dest_dir, 'wiki_terrorism.csv', sep='/'), row.names=FALSE)
+write.csv(terrorism, paste(dest_dir, 'terrorism_views.csv', sep='/'), row.names=FALSE)
 
 
 domestic <- data.frame()
@@ -46,4 +46,4 @@ for (lang in languages) {
     }
   }
 }
-write.csv(domestic, paste(dest_dir, 'wiki_domestic.csv', sep='/'), row.names=FALSE)
+write.csv(domestic, paste(dest_dir, 'domestic_views.csv', sep='/'), row.names=FALSE)
